@@ -295,8 +295,8 @@ class Job {
 	public $posted = "";
 	public $relevancy = -1;
 	public $applyURL = "";
-	public $categories = nil;
-	public $categoryCodes = nil;
+	public $categories = null;
+	public $categoryCodes = null;
 	public $companyDetailsURL = "";
 	
 
